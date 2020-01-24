@@ -1,0 +1,38 @@
+2020-01-24 11:22:31.663409 - IP/PORTA: LPR01.jpg-2020-01-22 17:25:36-  ERRO:placa não reconhecida
+2020-01-24 11:22:33.741042 - IP/PORTA: 200Hello World-PVU7320-  ERRO:list index out of range
+2020-01-24 11:22:34.834284 - IP/PORTA: 200Hello World-PYZ4072-  ERRO:list index out of range
+2020-01-24 15:24:01.947266 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:01.948035 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:06.955664 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:06.956661 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:11.965752 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:11.966750 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:16.976362 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:24:16.976362 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:36.806777 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:36.806777 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:41.815588 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:41.816588 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:46.824255 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:25:46.824255 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:42:53.150363 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.150363 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.152359 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.164325 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.165323 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.166320 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.166320 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.167317 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.168315 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.168315 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.169312 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.170309 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.170309 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.172305 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.173302 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.174299 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.175298 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.176302 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.177291 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
+2020-01-24 15:42:53.177291 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 15:42:53.177291 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
