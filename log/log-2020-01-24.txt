@@ -36,3 +36,5 @@
 2020-01-24 15:42:53.177291 - IP/PORTA: copiado para pasta: -noplate-  ERRO:placa não reconhecida
 2020-01-24 15:42:53.177291 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
 2020-01-24 15:42:53.177291 - IP/PORTA: veiculo não enviado por não possuir placa valida-No Plate-  ERRO:list index out of range
+2020-01-24 16:50:55.804936 - IP/PORTA: 200Hello World-PVU7320-  ERRO:list index out of range
+2020-01-24 16:50:56.896781 - IP/PORTA: 200Hello World-PYZ4072-  ERRO:list index out of range

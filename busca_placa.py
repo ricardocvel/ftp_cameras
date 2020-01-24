@@ -45,8 +45,6 @@ def data_name(name):
         print(teste)
         return(dados)
 
-
-
 def modificadata(data):
     ano = data[0:4]
     mes = data[4:6]
@@ -84,7 +82,6 @@ def log_placas(beckup):
             logtxt.write( i[2]+ ' - placa: ' + i[0] + '  Status:' + i[1] + '\n')
     logtxt.close()
 
-
 def apaga_veic(veiculo):
     for file in veiculo:
         try:
@@ -97,8 +94,6 @@ def apaga_veiculoname(name_veic):
         os.remove('fotos/' + name_veic + '.jpg')
     except:
         print('arquivo' + name_veic + ' não encontrado.')
-
-
 
 while True:
     dicionario = []

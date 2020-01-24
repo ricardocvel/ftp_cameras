@@ -150,3 +150,6 @@
 2020-01-24 13:54:54 - placa: No Plate  Status:veiculo não enviado por não possuir placa valida
 2020-01-24 14:21:14 - placa: No Plate  Status:veiculo não enviado por não possuir placa valida
 2020-01-24 14:26:37 - placa: No Plate  Status:veiculo não enviado por não possuir placa valida
+2020-01-22 17:21:49 - placa: PVU7320  Status:200Hello World
+2020-01-22 17:22:02 - placa: PYZ4072  Status:200Hello World
+2020-01-22 17:22:21 - placa: PXI6884  Status:200Hello World
